@@ -1,0 +1,16 @@
+{
+    "title": "2D Fitting Curve Example",
+    "xAxis": {
+        "name": "x",
+        "xCol": 0,
+        "xRow": [0,1,2,3,4]
+    },
+    "yAxis": {
+        "name": "y",
+        "yCol": 1,
+        "yRow": [0,1,2,3,4]
+    },
+    "time": "2017.03.29",
+    "xlsxFile": ".\\inputData.xlsx",
+    "fileName": "2dFittingCurveExample"
+}
